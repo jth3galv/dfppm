@@ -1,4 +1,4 @@
-#Projection-based Penalty Method (PPM)
+# Projection-based Penalty Method (PPM)
 ## Installation
 1. you will need a python interpreter (>=3.7) and the pip package manager (or conda). Please see [the official page](https://www.python.org/downloads/) or other distributions like [anaconda](https://www.anaconda.com/products/individual) if you need instructions.
 
