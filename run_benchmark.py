@@ -11,7 +11,7 @@ from configs import OUTPUT_PATH
 """script to run all the experiments to reproduce Figure 2, 4, 5 of the paper"""
 
 # OPTIMIZATION PARAMS
-MAX_NF = 100
+MAX_NF = 10**4
 """maximum number of function evaluation"""
 MAX_IT = -1
 """maximum number of iterations (-1 means unlimited)"""
