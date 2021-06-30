@@ -1,4 +1,9 @@
 # Projection-based Penalty Method (PPM)
+
+Code containing the implementation of the **PPM** method described in:
+ 
+Galvan, G., Sciandrone, M. & Lucidi, S. A parameter-free unconstrained reformulation for nonsmooth problems with convex constraints. *Comput Optim Appl* (2021), [link](https://link.springer.com/content/pdf/10.1007/s10589-021-00296-1.pdf).
+
 ## Installation
 1. you will need a python interpreter (>=3.7) and the pip package manager (or conda). Please see [the official page](https://www.python.org/downloads/) or other distributions like [anaconda](https://www.anaconda.com/products/individual) if you need instructions.
 
